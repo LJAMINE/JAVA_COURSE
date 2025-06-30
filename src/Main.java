@@ -10,6 +10,7 @@ public class Main {
         char symbol = '!';
         boolean isAlive = true;
         String name="amine ";
+        String day="monday";
 
         if (!isAlive) {
             System.out.println("amine is alive");
